@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+  }
+
+#museum {
+    max-width: 100%;
+}
+
+.sansserif {
+    font-family: sans-serif, Helvetica, Arial;
+  }
+
+ul {
+    color:green;
+}
+h1 {
+    background-color: pink;
+    color:white;
+}
+
